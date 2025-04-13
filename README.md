@@ -101,5 +101,6 @@ You can download the Pima Indians Diabetes Dataset from [Kaggle here](https://ww
 - Create a web interface for easier access (e.g., using Streamlit)
 - Add option to save patient records and track changes over time
 
-👩‍💻 Author
-Shruti Sharma (ss266)
+👩‍💻Contact 
+Shruti Sharma 
+[LinkedIn Profile](https://www.linkedin.com/in/shruti-sharma007)
