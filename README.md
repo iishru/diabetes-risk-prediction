@@ -73,15 +73,15 @@ pip install -r requirements.txt
 To start the diabetes prediction tool, run:
 python diabetes_prediction.py
 
-📊 Data Source This project uses the Pima Indians Diabetes Dataset, which contains medical information for 768 female patients of Pima Indian heritage, along with whether they developed diabetes within 5 years.
+📊 Data Source  
+This project uses the Pima Indians Diabetes Dataset, which contains medical information for 768 female patients of Pima Indian heritage, along with whether they developed diabetes within 5 years.
 
-Dataset Download: You can download the Pima Indians Diabetes Dataset from Kaggle here.
+**Dataset Download:**  
+You can download the Pima Indians Diabetes Dataset from [Kaggle here](https://www.kaggle.com/uciml/pima-indians-diabetes-database).
 
 📥 Dataset Preparation:
-
-Download the dataset from the provided link.
-
-Place the diabetes.csv file in the root directory of the project folder.
+1. Download the dataset from the provided link.
+2. Place the `diabetes.csv` file in the root directory of the project folder.
 
 ## 📈 Key Visualizations
 
